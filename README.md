@@ -7,7 +7,6 @@ I'm Dovud Asadi, a passionate developer and deep learning enthusiast.
 - 👯 I’m looking to collaborate on projects involving deep learning, distributed training, and Hugging Face integrations.
 - 🤔 I’m looking for help with optimizing model training using Hugging Face's Accelerate and FSDP.
 - 💬 Ask me about deep learning, virtual environments, or anything related to AI!
-- 📫 How to reach me: [Your preferred contact method]
-- 😄 Pronouns: [Your pronouns]
+- 📫 How to reach me: dovudasadoff@gmail.com
 - ⚡ Fun fact: I love exploring the intersection of technology and creativity!
 
